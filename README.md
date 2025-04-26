@@ -26,7 +26,7 @@ Escolha seu personagem favorito, colete itens, use power-ups e dispute com bots 
 - JavaScript
 
 ## ✨ Sobre o projeto:
-Este projeto foi desenvolvido como parte do desafio prático da Formação Node.js da DIO.
+Este projeto foi desenvolvido por mim como parte do desafio prático da Formação Node.js da DIO.
 A proposta original foi aprimorada com novas funcionalidades, melhor organização do código e muito mais diversão!
 
 Inspirado no repositório oficial da formação:
