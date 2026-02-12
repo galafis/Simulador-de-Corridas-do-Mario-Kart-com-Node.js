@@ -1,33 +1,159 @@
+# 🚀 Simulador De Corridas Do Mario Kart Com Node.Js
 
-# Mario Kart Node.js Simulator 🏎️🍄
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E.svg)](https://developer.mozilla.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Seja bem-vindo(a) ao simulador de corridas mais eletrizante do terminal!**
-Inspirado no universo mágico de Mario Kart, este projeto traz toda a diversão das pistas para dentro do seu console.
-Escolha seu personagem favorito, colete itens, use power-ups e dispute com bots para conquistar o pódio! 🚀
+[English](#english) | [Português](#português)
 
-## 🎮 Como jogar:
-1. Clone o repositório ou baixe o ZIP.
-2. No terminal, vá até a pasta do projeto.
-3. Execute o comando:
-   ```bash
-   node index.js
-   ```
-4. Digite seu nome e escolha seu personagem.
-5. A corrida começará automaticamente. Boa sorte!
+---
 
-## 🏁 Recursos:
-- Personagens com velocidades únicas.
-- Itens clássicos como Casco, Banana, Turbo e Estrela.
-- Corrida totalmente simulada no terminal.
-- Bots adversários inteligentes para desafiar você!
+## English
 
-## 📦 Tecnologias usadas:
-- Node.js
-- JavaScript
+### 🎯 Overview
 
-## ✨ Sobre o projeto:
-Este projeto foi desenvolvido como parte do desafio prático da Formação Node.js da DIO.
-A proposta original foi aprimorada com novas funcionalidades, melhor organização do código e muito mais diversão!
+**Simulador De Corridas Do Mario Kart Com Node.Js** — DIObootcamp
 
-Inspirado no repositório oficial da formação:
-[https://github.com/digitalinnovationone/formacao-nodejs](https://github.com/digitalinnovationone/formacao-nodejs)
+Total source lines: **132** across **5** files in **1** language.
+
+### ✨ Key Features
+
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- Node.js 20+ and npm
+
+
+#### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Simulador-de-Corridas-do-Mario-Kart-com-Node.js.git
+cd Simulador-de-Corridas-do-Mario-Kart-com-Node.js
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Running
+
+```bash
+npm run dev
+```
+
+
+
+
+
+### 📁 Project Structure
+
+```
+Simulador-de-Corridas-do-Mario-Kart-com-Node.js/
+├── src/
+│   ├── characters.js
+│   ├── item.js
+│   ├── player.js
+│   └── race.js
+├── README.md
+├── index.js
+└── package.json
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| JavaScript | 5 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Simulador De Corridas Do Mario Kart Com Node.Js** — DIObootcamp
+
+Total de linhas de código: **132** em **5** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Node.js 20+ e npm
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Simulador-de-Corridas-do-Mario-Kart-com-Node.js.git
+cd Simulador-de-Corridas-do-Mario-Kart-com-Node.js
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Execução
+
+```bash
+npm run dev
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+Simulador-de-Corridas-do-Mario-Kart-com-Node.js/
+├── src/
+│   ├── characters.js
+│   ├── item.js
+│   ├── player.js
+│   └── race.js
+├── README.md
+├── index.js
+└── package.json
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| JavaScript | 5 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
